@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deletion-directory.vercel.app/sitemap.xml
+Sitemap: https://deletehub.vercel.app/sitemap.xml
